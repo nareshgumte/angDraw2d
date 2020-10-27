@@ -19,6 +19,11 @@
     "@angular/platform-browser": "~9.1.0",
     "@angular/platform-browser-dynamic": "~9.1.0",
     "@angular/router": "~9.1.0",
+    "@types/raphael": "^2.3.0",
+    "draw2d": "^1.0.38",
+    "jquery": "^3.5.1",
+    "jquery-ui-dist": "^1.12.1",
+    "raphael": "^2.3.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
